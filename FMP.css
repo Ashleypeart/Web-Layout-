@@ -1,0 +1,28 @@
+#left-nav li {
+    float: left;
+    margin-right: 20px;
+    list-style: none;
+}
+
+#right-nav li {
+    float: right;
+    margin-right: 20px;
+    list-style: none;
+}
+
+#Netflix {
+    float: left;
+    margin-right: 10px;
+    width: 100px;
+    height: 80px;
+}
+#Bell {
+    float:right;
+    margin-right: 10px;
+    width: 50px; 
+    height: 30px;
+}
+pre   {
+    text-align: left;
+    clear: both;
+}

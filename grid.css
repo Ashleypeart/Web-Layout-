@@ -1,0 +1,19 @@
+#grid {
+    border: 4px black solid;
+    width: 900px;
+    height: 900px;  
+}
+
+.boxes  {
+    float: left;
+    border: 3px blue dotted;
+    width: 32%;
+    height: 32%;
+}
+
+.inside {
+    float: left;
+    border: 3x red solid;
+    width: 31px;
+    height: 31px;
+}
